@@ -1,0 +1,10 @@
+# Core Data Processing
+polars>=0.20.0
+
+# Testing Framework 
+pytest>=8.0.0
+
+# Linter & Formatter
+ruff>=0.3.0
+
+
