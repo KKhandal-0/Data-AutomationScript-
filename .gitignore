@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+*.csv
+
+# Ignore data files but keep directory structure
+data/*
+!data/**/.gitkeep
